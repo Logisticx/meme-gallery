@@ -1,7 +1,5 @@
-var gallery = document.querySelector('main');
-
 var imageUrls = [];
-
+var gallery = document.querySelector('main');
 var imageUr1Input = document.querySelector('input');
 var addImageButton = document.querySelector('button');
 
